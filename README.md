@@ -17,8 +17,6 @@ To run this project, you will need to have knowledge on this:
 
 `scikit-learn`
 
-`Real Estate`
-
 `Feature Engineering`
 
 
